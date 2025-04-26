@@ -56,7 +56,7 @@ INSTALLATION:--
    
 2) Navigate to the frontend project directory:-
 
-       cd Expense-Tracker/frontend/expense-tracker
+       cd Expense-Tracker-main/frontend/expense-tracker
 
 3) Install dependencies:-
    
@@ -68,7 +68,7 @@ INSTALLATION:--
  
 5) Navigate to the backend project directory:-
    
-        cd Expense-Tracker/backend
+        cd Expense-Tracker-main/backend
  
 6) Install dependencies:-
    
