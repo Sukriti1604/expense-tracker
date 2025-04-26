@@ -1,7 +1,10 @@
 Expense Tracker -- MapExpenses
 
 
+
 OVERVIEW:--
+
+
 
 As we all know that in this modern world managing expenses is one of the most important task .
 So this is a website called MapExpenses which allows users to manage and organise their expenses in an efficient manner.
@@ -14,25 +17,25 @@ So this is a website called MapExpenses which allows users to manage and organis
 FEATURES:--
 
 
-1)Add new expenses with details like amount, category, and date.
 
-2)Add new income with details like amount, source, and date.
+1)Add new expenses and income with details.
 
-3)Delete existing expenses.
+2)Delete existing expenses and icome.
 
-4)Delete existing income.
+3)Download Income details or Expense details.
 
-5)Download Income details or Expense details.
+4)View a summary of expenses by category or date range.
 
-6)View a summary of expenses by category or date range.
+5)Update user profile
 
-7)User-friendly interface.
+6)User-friendly interface.
 
-8)Update user profile
+
  
 
 
 TECHNOLOGY USED:--
+
 
 
 1)Frontend: React.js, tailwindcss, react-icons, vite
@@ -46,6 +49,7 @@ TECHNOLOGY USED:--
 
 
 INSTALLATION:--
+
 
 
 1) Clone the repository
@@ -76,7 +80,7 @@ INSTALLATION:--
 
         MONGO_URI=your_atlas_url
 
-       JWT_SECRET=your_jwt_key
+        JWT_SECRET=your_jwt_key
 
         CLIENT_URL=client_url
 
@@ -89,6 +93,7 @@ INSTALLATION:--
 
 
 USAGE:--
+
 
 
 1) Open your browser and navigate to  http://localhost:5173/.
