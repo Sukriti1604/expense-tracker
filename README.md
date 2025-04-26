@@ -1,9 +1,10 @@
 Expense Tracker -- MapExpenses
 
 OVERVIEW:--
-As we all know that in this modern world managing expenses is one of the most important task .
 
+As we all know that in this modern world managing expenses is one of the most important task .
 So this is a website called MapExpenses which allows users to manage and organise their expenses in an efficient manner.
+
 
 
 FEATURES:--
@@ -24,12 +25,14 @@ FEATURES:--
 8)Update user profile
 
 
+
 TECHNOLOGY USED:--
 1)Frontend: React.js, tailwindcss, react-icons, vite
 
 2)Backend: Node.js, Express.js
 
 3)Database: MongoDB
+
 
 
 INSTALLATION:--
@@ -66,6 +69,8 @@ CLIENT_URL=client_url
 
 8) Start the application:-
  npm run dev
+
+
 
 USAGE:--
 
