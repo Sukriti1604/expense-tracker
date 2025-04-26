@@ -31,12 +31,15 @@ As we all know that in this modern world managing expenses is one of the most im
    cd Expense-Tracker/backend
 7. Install dependencies:
    npm install
-8. Add URLS in .env file
+8. Add URLS in .env file :--
    PORT=8000
+   
    MONGO_URI=your_atlas_url
+   
    JWT_SECRET=your_jwt_key
+   
    CLIENT_URL=client_url
-9. Start the application:
+10. Start the application:
    npm run dev
 
 ## Usage
