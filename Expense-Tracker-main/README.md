@@ -1,7 +1,7 @@
 # Expense Tracker - MapExpenses
 
 ## Overview
-As we all know that in this modern world managing expenses is one of the most important task . So this is a website called expense tracker which allows users to manage and organise their expenses in an efficient manner
+As we all know that in this modern world managing expenses is one of the most important task . So this is a website called MapExpenses which allows users to manage and organise their expenses in an efficient manner
 
 ## Features
 - Add new expenses with details like amount, category, and date.
