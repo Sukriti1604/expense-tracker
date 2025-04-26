@@ -8,34 +8,36 @@ So this is a website called MapExpenses which allows users to manage and organis
 
 
 FEATURES:--
-1)Add new expenses with details like amount, category, and date.
 
-2)Add new income with details like amount, source, and date.
+      1)Add new expenses with details like amount, category, and date.
 
-3)Delete existing expenses.
+      2)Add new income with details like amount, source, and date.
 
-4)Delete existing income.
+      3)Delete existing expenses.
 
-5)Download Income details or Expense details.
+      4)Delete existing income.
 
-6)View a summary of expenses by category or date range.
+      5)Download Income details or Expense details.
 
-7)User-friendly interface.
+      6)View a summary of expenses by category or date range.
 
-8)Update user profile
+      7)User-friendly interface.
 
+      8)Update user profile
+ 
 
 
 TECHNOLOGY USED:--
-1)Frontend: React.js, tailwindcss, react-icons, vite
+      1)Frontend: React.js, tailwindcss, react-icons, vite
 
-2)Backend: Node.js, Express.js
+      2)Backend: Node.js, Express.js
 
-3)Database: MongoDB
+      3)Database: MongoDB
 
 
 
 INSTALLATION:--
+
 1) Clone the repository
    
 2) Navigate to the project directory:-
