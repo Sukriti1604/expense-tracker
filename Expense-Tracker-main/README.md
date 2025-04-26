@@ -1,13 +1,9 @@
-# Expense Tracker - ExpenseFlow
-
-# Developer: Sudarshan Date
+# Expense Tracker - MapExpenses
 
 ## Overview
-
-This is a simple Expense Tracker application that helps users manage their expenses efficiently. It allows users to add, delete and download expenses or incomes while providing a summary of their spending.
+As we all know that in this modern world managing expenses is one of the most important task . So this is a website called expense tracker which allows users to manage and organise their expenses in an efficient manner
 
 ## Features
-
 - Add new expenses with details like amount, category, and date.
 - Add new income with details like amount, source, and date.
 - Delete existing expenses.
@@ -19,62 +15,30 @@ This is a simple Expense Tracker application that helps users manage their expen
 ## Technologies Used
 
 - Frontend: React.js, tailwindcss, react-icons, vite
-- Backend: Node.js, Express.js, MVC Architecture
+- Backend: Node.js, Express.js
 - Database: MongoDB
 
 ## Installation
 
-1. Clone the repository:
-   ```bash
-   git clone git@github.com:SudarshanProCoder/Expense-Tracker.git
-   ```
-2. Navigate to the project directory - Frontend:
-   ```bash
+1. Clone the repository
+3. Navigate to the project directory - Frontend:
    cd Expense-Tracker/frontend/expense-tracker
-   ```
-3. Install dependencies:
-   ```bash
+4. Install dependencies:
    npm install
-   ```
-4. Start the application:
-   ```bash
+5. Start the application:
    npm run dev
-   ```
-5. Navigate to the project directory - Backend:
-   ```bash
+6. Navigate to the project directory - Backend:
    cd Expense-Tracker/backend
-   ```
-6. Install dependencies:
-   ```bash
+7. Install dependencies:
    npm install
-   ```
-7. Add URLS in .env file
-   ```bash
+8. Add URLS in .env file
    PORT=8000
    MONGO_URI=your_atlas_url
    JWT_SECRET=your_jwt_key
    CLIENT_URL=client_url
-   ```
-8. Start the application:
-   ```bash
+9. Start the application:
    npm run dev
-   ```
 
 ## Usage
-
 1. Open your browser and navigate to ` http://localhost:5173/`.
 2. Start adding your incomes or expenses and manage them effectively.
-
-## Output
-
-Below is an example of the application's interface:
-
-![Expense Tracker Output](./images/img1.png)
-![Expense Tracker Output](./images/img2.png)
-![Expense Tracker Output](./images/img3.png)
-![Expense Tracker Output](./images/img4.png)
-![Expense Tracker Output](./images/img5.png)
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](./LICENSE) file for details.
