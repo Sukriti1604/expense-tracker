@@ -46,7 +46,17 @@ const SideMenu = ({ activeMenu }) => {
         <h5 className="text-gray-950 font-medium leading-6">
           {user?.fullName || ""}
         </h5>
+
+        
+        <button
+          onClick={() => navigate("/update-profile")}
+          className="text-primary text-sm  mt-1"
+        >
+          Update Profile
+        </button>
       </div>
+        
+
 
       {SIDE_MENU_DATA.map((item, index) => (
         <button
